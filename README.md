@@ -1,0 +1,2 @@
+# Blaze-Chat
+Privacy Poicy
